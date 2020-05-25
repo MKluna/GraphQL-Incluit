@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "name":"Matias",
+        "lastname":"Luna Soria",
+        "courseID":"1"
+    },
+    {
+        "id":"2",
+        "name":"Jorge",
+        "lastname":"Monge",
+        "courseID":"2"
+    },
+    {
+        "id":"3",
+        "name":"Lucas",
+        "lastname":"Montivero",
+        "courseID":"3"
+    },
+    {
+        "id":"4",
+        "name":"Fabio",
+        "lastname":"Arpires",
+        "courseID":"4"
+    }
+]
